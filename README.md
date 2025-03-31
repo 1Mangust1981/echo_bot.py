@@ -19,7 +19,9 @@
 - Установите библиотеку: `pip3 install python-telegram-bot --upgrade`
 - Скачайте `echo_bot.py`.
 - Получите токен бота от [BotFather](https://t.me/BotFather) в Telegram и вставьте его в переменную `TOKEN` в коде.
-
+- (Опционально) Создайте виртуальное окружение: python3 -m venv venv
+- Активируйте его: source venv/bin/activate (для Linux/Mac) или venv\Scripts\activate (для Windows)
+  
 ## Использование
 - Перейдите в папку: `cd путь_к_папке_с_файлом`
 - Запустите скрипт: `python3 echo_bot.py`
